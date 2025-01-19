@@ -1,4 +1,4 @@
-package com.dt.koincleanarchitecture.ui.theme
+package com.dt.koincleanarchitecture.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
